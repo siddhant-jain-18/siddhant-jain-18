@@ -32,7 +32,7 @@ Everything is designed to be **read, understood, and modified** by engineers.
 ## Education
 
 **B.Tech in Computer Science & Engineering (First Year)**  
- The LNM Institute of Information Technology (LNMIIT)
+ **The LNM Institute of Information Technology (LNMIIT)**
 
 Formal academic training in:
 - Discrete mathematics and logic
