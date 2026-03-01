@@ -45,8 +45,6 @@ Academic study runs in parallel with hands-on production work on real systems an
 
 ## Links
 
-- [GitHub](https://github.com/siddhant-jain-18)  
-- [Website](https://keelstack.me)  
 - [LinkedIn](https://www.linkedin.com/in/siddhant-jain-8a54ba3a2)  
 - [X (Twitter)](https://x.com/Siddhantjain_18)  
 - [Reddit](https://www.reddit.com/u/siddhant_jain_18)  
