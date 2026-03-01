@@ -4,7 +4,7 @@
 
 🇮🇳 India  
 📧 [founder@keelstack.me](mailto:founder@keelstack.me)  
-🌐 [https://keelstack.me]((https://keelstack.me))  
+🌐 [KeelStack](https://keelstack.me)  
 
 ---
 
