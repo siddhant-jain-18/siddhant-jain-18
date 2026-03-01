@@ -1,6 +1,6 @@
 # 👋 Siddhant Jain
 
-**Founder & Lead Developer @ :contentReference[oaicite:0]{index=0}**
+**Founder & Lead Developer [@KeelStack](https://keelstack.me)
 
 🇮🇳 India  
 📧 [founder@keelstack.me](mailto:founder@keelstack.me)  
