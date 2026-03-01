@@ -29,6 +29,20 @@ Everything is designed to be **read, understood, and modified** by engineers.
 
 ---
 
+## Education
+
+**B.Tech in Computer Science & Engineering (First Year)**  
+ The LNM Institute of Information Technology (LNMIIT)
+
+Formal academic training in:
+- Discrete mathematics and logic
+- Programming fundamentals
+- Data structures and algorithmic thinking
+
+Academic study runs in parallel with hands-on production work on real systems and shipped developer products.
+
+---
+
 ## Links
 
 - [GitHub](https://github.com/siddhant-jain-18)  
@@ -51,3 +65,4 @@ Everything is designed to be **read, understood, and modified** by engineers.
 - Independent, bootstrapped  
 - No VC, no sponsored opinions  
 - Built for developers, not marketers
+- Built and sunset multiple earlier projects before KeelStack; lessons from those iterations directly informed its architecture and legal hardening.
