@@ -1,115 +1,66 @@
-<div align="center">
-Siddhant Jain
-Founder & Lead Developer @KeelStack
+# 👋 Siddhant Jain
 
-[
-[
-[
-[
+**Founder & Lead Developer** [@KeelStack](https://keelstack.me)
 
-</div>
-🎯 Overview
-I build production-grade backend systems for developers who need more than boilerplate starters. KeelStack is a battle-tested Node.js backend infrastructure designed for real-world constraints—audit-ready, dispute-resilient, and built to scale under legal and financial scrutiny.
+🇮🇳 India  
+📧 [founder@keelstack.me](mailto:founder@keelstack.me)  
+🌐 [KeelStack](https://keelstack.me)  
 
-typescript
-const expertise = {
-  focus: "Production-grade infrastructure",
-  specialty: ["Security-first architecture", "Audit resilience", "Payment systems"],
-  approach: "Battle-tested patterns, not tutorial code"
-};
-Core Principles
-🔒 Security-first architecture — Defense-in-depth, not surface-level validation
+---
 
-📋 Audit & dispute resilience — Systems that survive chargebacks and compliance reviews
+## About
 
-🔓 Full source transparency — No black boxes, complete ownership
+I build **developer-focused digital products** with an emphasis on:
 
-🚀 Production-hardened — Engineered from real SaaS patterns and production incidents
+- Production-grade backend architecture  
+- Security, auditability, and dispute-resilient systems  
+- Clear ownership of source code (no black boxes)
 
-🛠️ Tech Stack
-<div align="center">
-Backend & Infrastructure
-Security & Auth
-Payments & Integration
-DevOps & Deployment
-</div>
-🚀 Current Focus
-KeelStack — Production Backend Infrastructure
-<div align="center">
-[
-[
+KeelStack is built from real SaaS patterns, not tutorials or demos.  
+Everything is designed to be **read, understood, and modified** by engineers.
 
-</div>
-A complete Node.js backend starter built for developers launching real products:
+---
 
-Core Features
-🔐 Authentication & Authorization
-Session management, role-based access control, secure token flows
+## What I’m Working On
 
-💾 Database Architecture
-Schema design, migrations, indexing strategies optimized for scale
+- **KeelStack** — a production-ready Node.js backend starter  
+- Auth, database, payments, and email flows with real-world constraints  
+- Systems that stand up during audits, disputes, and chargebacks  
 
-💳 Payment Integration
-Stripe-ready flows with chargeback handling and reconciliation logic
+---
 
-📧 Transactional Email
-Delivery tracking, bounce handling, template management
+## Education
 
-⚖️ Legal & Compliance
-Audit logs, GDPR-ready data flows, dispute documentation
+**B.Tech in Computer Science & Engineering (First Year)**  
+ **The LNM Institute of Information Technology (LNMIIT)**
 
-Built to handle the edge cases that break most side projects when they hit real users.
+Formal academic training in:
+- Discrete mathematics and logic
+- Programming fundamentals
+- Data structures and algorithmic thinking
 
-📚 Background
-🎓 Education
-B.Tech in Computer Science & Engineering (First Year)
-The LNM Institute of Information Technology (LNMIIT)
+Academic study runs in parallel with hands-on production work on real systems and shipped developer products.
 
-Currently balancing formal CS fundamentals—discrete math, data structures, algorithmic analysis—with hands-on production engineering.
+---
 
-💡 Engineering Philosophy
-python
-def build_philosophy():
-    lessons = [
-        "Shipped and iterated through multiple projects",
-        "Learned more from failures than successes",
-        "Every design decision comes from production pain",
-        "Bootstrapped and independent—no VC pressure"
-    ]
-    return "Build for reality, not theory"
-📊 GitHub Stats
-<div align="center"> </div>
-🔗 Connect
-<div align="center">
-[
-[
-[
-[
+## Links
 
-</div>
-🏢 Organization
-<div align="center">
-[
+- [LinkedIn](https://www.linkedin.com/in/siddhant-jain-8a54ba3a2)  
+- [X (Twitter)](https://x.com/Siddhantjain_18)  
+- [Reddit](https://www.reddit.com/u/siddhant_jain_18)  
+- [Discord](https://discordapp.com/users/1401255955622265007) 
 
-Production infrastructure and developer tooling
+---
 
-</div>
-⚡ Principles
-<table> <tr> <td width="50%">
-🚢 Ship, Then Iterate
-Perfect is the enemy of shipped. Launch, learn, improve.
+## Organization
 
-🔓 Own Your Infrastructure
-Understand every layer you depend on. No black boxes.
+- 🏗 [KeelStack-me](https://github.com/KeelStack-me)  
 
-</td> <td width="50%">
-⚖️ Build for Reality
-Disputes happen, users chargeback, audits arrive unannounced.
+---
 
-🎯 No Compromises
-Fully independent. No VC funding. No paid endorsements.
+## Notes
 
-</td> </tr> </table>
-<div align="center">
-Built for engineers solving real problems, not content marketers chasing trends
-</div>
+- Independent, bootstrapped  
+- No VC, no sponsored opinions  
+- Built for developers, not marketers
+- Built and sunset multiple earlier projects before KeelStack; lessons from those iterations directly informed its architecture and legal hardening.
