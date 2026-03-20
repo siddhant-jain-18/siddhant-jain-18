@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG animation — instant attention -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Siddhant+Jain+%F0%9F%91%8B;Founder+%40+KeelStack;Backend+Architect+%7C+Node.js+%7C+TypeScript;Building+for+Engineers%2C+Not+Marketers)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Siddhant+Jain+%F0%9F%91%8B;Founder+%40+KeelStack;Backend+Architect+%7C+Node.js+%7C+TypeScript;Building+for+Engineers%2C+Not+Marketers" alt="Typing SVG" />
 
 <!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=siddhant-jain-18&label=Profile+Views&color=0ea5e9&style=flat-square)
@@ -70,7 +70,7 @@ No black boxes. Every file is meant to be **read, understood, and modified.**
 ## 📊 GitHub Stats
 
 <div align="center">
-
+ <div style="display: flex; gap: 10px; justify-content: center;">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhant-jain-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-jain-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
