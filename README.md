@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG animation — instant attention -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Siddhant+Jain+%F0%9F%91%8B;Founder+%40+KeelStack;Backend+Architect+%7C+Node.js+%7C+TypeScript;Building+for+Engineers%2C+Not+Marketers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Siddhant+Jain+%F0%9F%91%8B;Founder+%40+KeelStack;Lead+Architect+%7C+Node.js+%7C+TypeScript;Building+for+Engineers%2C+Not+Marketers" alt="Typing SVG" />
 
 <!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=siddhant-jain-18&label=Profile+Views&color=0ea5e9&style=flat-square)
