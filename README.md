@@ -75,6 +75,12 @@ No black boxes. Every file is meant to be **read, understood, and modified.**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhant-jain-18&theme=tokyonight)
 
+<!-- Contribution activity graph — last 31 days -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhant-jain-18&theme=tokyo-night&hide_border=true)
+
+<!-- GitHub trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=siddhant-jain-18&theme=tokyonight&no-frame=true&row=1)
+
 </div>
 
 ---
