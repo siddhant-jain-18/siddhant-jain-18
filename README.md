@@ -70,14 +70,15 @@ No black boxes. Every file is meant to be **read, understood, and modified.**
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhant-jain-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-jain-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-    <a href="https://git.io/streak-stats">
-      <img height="165" src="https://streak-stats.demolab.com?user=siddhant-jain-18&theme=tokyonight&hide_border=true" />
+  <div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <img height="165" src="https://vercel.app" />
+    <img height="165" src="https://vercel.app" />
+    <a href="https://git.io">
+      <img height="165" src="https://demolab.com" />
     </a>
   </div>
 </div>
+
 
 
 ---
