@@ -71,9 +71,9 @@ No black boxes. Every file is meant to be **read, understood, and modified.**
 
 <div align="center">
 
-![Siddhant's GitHub stats](https://vercel.app/api?username=siddhant-jain-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&_t=20260331)
+![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhant-jain-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://vercel.app/api/top-langs/?username=siddhant-jain-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&_t=20260331)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-jain-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=siddhant-jain-18&theme=tokyonight&hide_border=true)
 
