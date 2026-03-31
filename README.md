@@ -15,7 +15,7 @@
 
 ## ⚡ What I Build
 
-I'm a **Indie founder** from 🇮🇳 India.
+I'm an **Indie founder** from 🇮🇳 India.
 I build **production-grade developer tools** — systems designed to survive real-world pressure:
 stripe disputes, security audits, team handoffs, and post-mortems.
 
@@ -71,15 +71,11 @@ No black boxes. Every file is meant to be **read, understood, and modified.**
 
 <div align="center">
   <div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img height="165" src="https://vercel.app" />
-    <img height="165" src="https://vercel.app" />
-    <a href="https://git.io">
-      <img height="165" src="https://demolab.com" />
-    </a>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhant-jain-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-jain-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    <img height="165" src="https://streak-stats.demolab.com?user=siddhant-jain-18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </div>
 </div>
-
-
 
 ---
 
@@ -128,7 +124,7 @@ KeelStack exists because of those failures, not despite them.
 [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Siddhantjain_18)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/siddhant_jain_18)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1401255955622265007)
-[![Website](https://img.shields.io/badge/keelstack.me-000000?style=for-the-badge&logo=safari&logoColor=white)](https://keelstack.me)
+[![KeelStack](https://img.shields.io/badge/keelstack.me-000000?style=for-the-badge&logo=safari&logoColor=white)](https://keelstack.me)
 
 </div>
 
