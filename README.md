@@ -71,11 +71,9 @@ No black boxes. Every file is meant to be **read, understood, and modified.**
 
 <div align="center">
 
-![Siddhant's GitHub stats](https://streak-stats.demolab.com?user=siddhant-jain-18&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=siddhant-jain-18&theme=tokyonight&hide_border=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhant-jain-18&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=siddhant-jain-18&theme=tokyonight&hide_border=true)
 
 </div>
 
