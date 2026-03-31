@@ -70,11 +70,13 @@ No black boxes. Every file is meant to be **read, understood, and modified.**
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhant-jain-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-jain-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-    <img height="165" src="https://streak-stats.demolab.com?user=siddhant-jain-18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </div>
+
+![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhant-jain-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&_t=20260331)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-jain-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&_t=20260331)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=siddhant-jain-18&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
