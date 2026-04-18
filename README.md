@@ -78,7 +78,7 @@ No black boxes. Every file is meant to be **read, understood, and modified.**
 <!-- Contribution activity graph — last 31 days -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddhant-jain-18&theme=tokyo-night&hide_border=true)
 
-[![siddhant-jain-18's Magine Stats](https://magine.cloud/api/github-card?user=siddhant-jain-18)](https://magine.cloud/api/github-card?user=siddhant-jain-18)
+<!--[![siddhant-jain-18's Magine Stats](https://magine.cloud/api/github-card?user=siddhant-jain-18)](https://magine.cloud/api/github-card?user=siddhant-jain-18)-->
 
 </div>
 
