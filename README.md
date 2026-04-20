@@ -29,16 +29,22 @@ stripe disputes, security audits, team handoffs, and post-mortems.
   <img align="right" width="260" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=0EA5E9&width=260&lines=Auth+%E2%9C%93+Payments+%E2%9C%93+Email+%E2%9C%93+DB;Audit-ready.+Dispute-resilient.;Read+it.+Own+it.+Ship+it." alt="KeelStack tagline"/>
 </a>
 
-**Production-ready Node.js backend starter kit.**
+### [`@keelstack/guard`](https://github.com/KeelStack-me/guard.git)
 
-| Feature | Status |
-|---|---|
-| Auth (JWT + refresh + device sessions) | ✅ Shipped |
-| Stripe payments + chargeback handling | ✅ Shipped |
-| Transactional email flows | ✅ Shipped |
-| Database schema + migrations | ✅ Shipped |
-| Audit logging + dispute evidence trails | ✅ Shipped |
-| Security hardening (rate limiting, CORS, helmet) | ✅ Shipped |
+**Framework‑agnostic safety primitives for AI agent tool calls.**
+
+| Primitive | What it does |
+|-----------|---------------|
+| Idempotency gate | Tool call runs at most once per key – even across retries |
+| Budget enforcer | Blocks action when per‑user LLM spend exceeds limit |
+| Risk gate | Logs, warns, or blocks irreversible actions (delete, charge, send) |
+
+## 🏗 Legacy: KeelStack Backend Engine
+
+The original KeelStack (production Node.js backend starter kit with auth, payments, email, audit logs) still exists as a private repo. It's not dead – it's the **credibility anchor** for the guard package.  
+Once the guard gains traction, the engine will become a paid tier.
+
+No black boxes. Every file is meant to be **read, understood, and modified.**
 
 🔗 **[keelstack.me](https://keelstack.me)** · 🏗 **[KeelStack-me GitHub Org](https://github.com/KeelStack-me)**
 
@@ -105,19 +111,6 @@ Studying: Discrete Mathematics · Algorithms & DS · Programming Fundamentals
 
 > Running in parallel: shipping real production systems with actual users and legal constraints.
 > The classroom teaches theory. Burnt projects teach architecture.
-
----
-
-## 📖 Iteration Log
-
-I didn't start with KeelStack. I built and killed projects before it — each one failed in a different instructive way.
-KeelStack exists because of those failures, not despite them.
-
-| Iteration | What Failed | Lesson Baked Into KeelStack |
-|---|---|---|
-| Project #1 | Auth rolled from scratch — had vulns | JWT + refresh token module, hardened |
-| Project #2 | No payment dispute evidence | Audit log on every financial event |
-| Project #3 | Codebase no one else could read | Opinionated, documented architecture |
 
 ---
 
