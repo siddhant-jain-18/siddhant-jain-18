@@ -5,7 +5,6 @@
 
 <!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=siddhant-jain-18&label=Profile+Views&color=0ea5e9&style=flat-square)
-
 [![Website](https://img.shields.io/badge/Website-siddhantjain.dev-0ea5e9?style=flat-square&logo=vercel)](https://siddhantjain.dev)
 [![Email](https://img.shields.io/badge/Email-contact-0ea5e9?style=flat-square&logo=gmail)](mailto:contact@siddhantjain.dev)
 
@@ -105,16 +104,3 @@ I’ve studied:
 **Built with intention. Shipped with ownership.**
 
 </div>
-
-## What I changed
-- Removed **KeelStack** and **PingFire** references.
-- Made it more about **you personally**.
-- Kept it professional, strong, and founder/builder oriented.
-- Removed anything that makes it look too product-specific.
-- Kept the layout clean and GitHub-readme friendly.
-
-## If you want it even better
-I can also make:
-1. a **more premium founder-style version**,
-2. a **more minimal and classy version**,
-3. or a **more technical engineer-style version**.
