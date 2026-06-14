@@ -5,8 +5,8 @@
 
 <!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=siddhant-jain-18&label=Profile+Views&color=0ea5e9&style=flat-square)
-[![Website](https://img.shields.io/badge/Website-siddhantjain.dev-0ea5e9?style=flat-square&logo=vercel)](https://siddhantjain.dev)
-[![Email](https://img.shields.io/badge/Email-contact-0ea5e9?style=flat-square&logo=gmail)](mailto:contact@siddhantjain.dev)
+[![Website](https://img.shields.io/badge/Website-siddhantjain.dev-0ea5e9?style=flat-square&logo=vercel)](https://keelstack.me)
+[![Email](https://img.shields.io/badge/Email-contact-0ea5e9?style=flat-square&logo=gmail)](mailto:founder@keelstack.me)
 
 </div>
 
