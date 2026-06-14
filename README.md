@@ -66,11 +66,11 @@ I enjoy building software that is practical, scalable, and easy to reason about.
 
 ## Approach
 
-✅ Build for production, not for vibes.
-✅ Keep systems simple enough to maintain.
-✅ Prefer clear ownership and clear architecture.
-✅ Bake in security, reliability, and observability early.
-✅ Ship code that can survive real users.
+- ✅ Build for production, not for vibes.
+- ✅ Keep systems simple enough to maintain.
+- ✅ Prefer clear ownership and clear architecture.
+- ✅ Bake in security, reliability, and observability early.
+- ✅ Ship code that can survive real users.
 
 ---
 
