@@ -74,18 +74,6 @@ I enjoy building software that is practical, scalable, and easy to reason about.
 
 ---
 
-## Education
-
-**B.Tech — Computer Science & Engineering**  
-**The LNM Institute of Information Technology (LNMIIT), Jaipur**
-
-I’ve studied:
-- Discrete Mathematics
-- Algorithms and Data Structures
-- Programming Fundamentals
-
----
-
 ## Connect
 
 <div align="center">
