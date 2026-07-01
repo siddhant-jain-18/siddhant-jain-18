@@ -14,9 +14,13 @@
 
 ## About Me
 
-I'm **Siddhant Jain**, an indie builder from 🇮🇳 India.
+I'm **Siddhant Jain**, a builder from 🇮🇳 India.
 
-I like entrepreneurship and I want to create something real and meaningful.
+I enjoy solving real-world problems through software.
+
+Right now, I'm building **PingFire**—an AI receptionist that helps home service businesses recover missed opportunities.
+
+**I'm always learning, building, and trying to make useful things.**
 
 ---
 
