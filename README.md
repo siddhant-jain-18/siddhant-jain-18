@@ -7,6 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-siddhant@pingfire.app-0ea5e9?style=flat-square&logo=gmail)](mailto:siddhant@pingfire.app)
 
 </div>
+
 ---
 
 ## About Me
