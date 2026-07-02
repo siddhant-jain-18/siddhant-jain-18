@@ -16,7 +16,7 @@ I'm **Siddhant Jain**, a builder from 🇮🇳 India.
 
 I enjoy solving real-world problems through software.
 
-Right now, I'm building **PingFire**—an AI receptionist that helps home service businesses recover missed opportunities.
+Right now, I am currently building **PingFire:** an AI system designed for home-service businesses to automate customer interactions and capture missed opportunities.
 
 **I'm always learning, building, and trying to make useful things.**
 
