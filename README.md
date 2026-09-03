@@ -19,14 +19,3 @@ I enjoy solving real-world problems through software.
 Right now, I am currently building **PingFire:** an AI system designed for home-service businesses to automate customer interactions and capture missed opportunities.
 
 **I'm always learning, building, and trying to make useful things.**
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-jain-8a54ba3a2)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Siddhantjain_18)
-
-</div>
