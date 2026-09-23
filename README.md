@@ -18,6 +18,6 @@ I'm Siddhant, interested in startups and entrepreneurship. I want to create some
 
 <div align="center">
 
-![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhant-jain-18&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true)
+![Siddhant's GitHub stats](https://github-readme-stats.shion.dev/api?username=siddhant-jain-18&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true)
 
 </div>
