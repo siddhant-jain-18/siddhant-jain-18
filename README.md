@@ -4,7 +4,6 @@
 
 [![Website](https://img.shields.io/badge/keelstack.me-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://keelstack.me)
 [![Email](https://img.shields.io/badge/siddhant@keelstack.me-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:siddhant@keelstack.me)
-[![GitHub](https://img.shields.io/badge/siddhant--jain--18-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siddhant-jain-18)
 
 </div>
 
@@ -18,6 +17,6 @@ I'm Siddhant, interested in startups and entrepreneurship. I want to create some
 
 <div align="center">
 
-![Siddhant's GitHub stats](https://github-readme-stats.shion.dev/api?username=siddhant-jain-18&show_icons=true&hide_title=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true)
+<img src="https://github-stats-extended.vercel.app/api?username=siddhant-jain-18&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Siddhant's GitHub stats" />
 
 </div>
