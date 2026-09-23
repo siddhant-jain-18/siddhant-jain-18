@@ -17,10 +17,6 @@ I'm Siddhant, interested in startups and entrepreneurship. I want to create some
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=siddhant-jain-18&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Siddhant's GitHub stats" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=siddhant-jain-18&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=siddhant-jain-18&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
 </div>
